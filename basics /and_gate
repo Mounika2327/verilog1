@@ -1,0 +1,10 @@
+module and_gate(
+    input A,       // Input A
+    input B,       // Input B
+    output Y       // Output Y
+);
+
+    // AND operation
+    assign Y = A & B;  // Y will be 1 if both A and B are 1, otherwise 0
+
+endmodule
