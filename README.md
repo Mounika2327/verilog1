@@ -1,1 +1,1 @@
-# verilog1
+# logic gates
